@@ -1,0 +1,30 @@
+{
+  "name": "project-react",
+  "version": "1.0.0",
+  "description": "This is react project by saumya suman",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saumya-Suman/web-react.git"
+  },
+  "keywords": [],
+  "author": "Saumya Suman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saumya-Suman/web-react/issues"
+  },
+  "homepage": "https://github.com/Saumya-Suman/web-react#readme",
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "browserlist": [
+    "last 2 versions"
+  ],
+  "devDependencies": {
+    "parcel": "^2.15.4",
+    "process": "^0.11.10"
+  }
+}
